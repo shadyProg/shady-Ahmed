@@ -6,14 +6,14 @@ I’m a **Computer Science student** passionate about **Cyber Security** and **B
 I have a strong background in **C++** and **Java**, and I’m currently learning **Node.js** and diving deeper into **Network Security**.  
 
 🔒 My main focus: understanding how hackers think to build stronger defenses, with an interest in **Red Team & Blue Team operations**.  
-☁️ Future plan: specialize in **Cloud Security**.  
+☁️ Future plan: specialize in **malware dev**.  
 🌍 Goal: work at **Google in Cyber Security**, contributing to securing large-scale systems.  
 
 ---
 
 ### 🚀 Skills & Tools
-- **Programming:** C++, Java, Node.js, PHP, JavaScript  
-- **Cyber Security:** Penetration Testing (VAPT), Red Teaming, Blue Teaming  
+- **Programming:** C++, Java, Node.js, JavaScript  
+- **Cyber Security:** Penetration Testing (VAPT), Red Teaming
 - **Networking:** OSI Model, TCP/IP, Network+ Fundamentals  
 - **Tools & Platforms:** Git, Burp Suite, Metasploit, Nmap, Linux/Kali  
 
