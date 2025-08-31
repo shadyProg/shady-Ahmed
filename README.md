@@ -11,12 +11,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+
+I’m a **Computer Science student** passionate about **Cyber Security** and **Backend Development**.  
+I have a strong background in **C++** and **Java**, and I’m currently learning **Node.js** and diving deeper into **Network Security**.  
+
+🔒 My main focus: understanding how hackers think to build stronger defenses, with an interest in **Red Team & Blue Team operations**.  
+☁️ Future plan: specialize in **malware dev**.  
+🌍 Goal: work at **Google in Cyber Security**, contributing to securing large-scale systems.  
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -75,13 +76,7 @@
 
 # 👋 Hi, I’m Shady  
 
-### 🧑‍💻 About Me
-I’m a **Computer Science student** passionate about **Cyber Security** and **Backend Development**.  
-I have a strong background in **C++** and **Java**, and I’m currently learning **Node.js** and diving deeper into **Network Security**.  
 
-🔒 My main focus: understanding how hackers think to build stronger defenses, with an interest in **Red Team & Blue Team operations**.  
-☁️ Future plan: specialize in **malware dev**.  
-🌍 Goal: work at **Google in Cyber Security**, contributing to securing large-scale systems.  
 
 ---
 
