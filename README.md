@@ -98,3 +98,69 @@ I have a strong background in **C++** and **Java**, and I’m currently learning
 
 ---
 ⭐️ *Always learning, building, and sharing knowledge in tech & security.*  
+
+
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shady-ahmed-5a0b42301/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/shady91c#7323" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
+<a href="https://tryhackme.com/p/shady" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tryhackme.svg" alt="tryhackme" height="30" width="30" /></a>&nbsp;
+</p>
+
+![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+I’m a **Computer Science student** passionate about **Cyber Security** and **Backend Development**.  
+I have a strong background in **C++** and **Java**, and I’m currently learning **Node.js** and diving deeper into **Network Security**.  
+
+🔒 My main focus: understanding how hackers think to build stronger defenses, with an interest in **Red Team & Blue Team operations**.  
+☁️ Future plan: specialize in **Cloud Security** and advanced **Malware Development**.  
+🌍 Goal: work at **Google in Cyber Security**, contributing to securing large-scale systems.  
+
+---
+
+### 🧑‍💻 Tech I work on :
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cpp" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="kali" width="55" height="55"/>
+</p>
+
+---
+
+### 📊 My Github Stats:
+![Shady's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### ✍️ Latest Blog posts / Writeups
+<!-- BLOG-POST-LIST:START -->
+- [CTF Writeup: Basic Pentest on TryHackMe]()
+- [Port Scanning with Nmap: A Beginner’s Guide]()
+- [Notes: OSI Model Explained Simply]()
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 💡 Quote of the Day:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Security is not a product, but a process.” — Bruce Schneier </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### 😂 Here’s some humor:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" />
+
+
+
