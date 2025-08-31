@@ -9,11 +9,9 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
- 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-I’m a **Computer Science student** passionate about **Cyber Security** and **Backend Development**.  
+ I’m a **Computer Science student** passionate about **Cyber Security** and **Backend Development**.  
 I have a strong background in **C++** and **Java**, and I’m currently learning **Node.js** and diving deeper into **Network Security**.  
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🔒 My main focus: understanding how hackers think to build stronger defenses, with an interest in **Red Team & Blue Team operations**.  
 ☁️ Future plan: specialize in **malware dev**.  
