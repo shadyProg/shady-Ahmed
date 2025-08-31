@@ -29,9 +29,9 @@ I have a strong background in **C++** and **Java**, and I’m currently learning
 ---
 
 ### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/USERNAME)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/USERNAME](https://github.com/shadyProg))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shady-ahmed-5a0b42301/))  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shady91c@gmail.com)  
 
 ---
 ⭐️ *Always learning, building, and sharing knowledge in tech & security.*  
